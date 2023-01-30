@@ -37,7 +37,6 @@ ul {
 body {
     font-family: var(--CC);
     background: var(--body);
-
 }
 
 .reklama>span {
@@ -278,7 +277,6 @@ body {
 }
 
 .films__item-content {
-
     background: linear-gradient(180deg, rgba(241, 129, 40, 0.35) 0%, rgba(0, 0, 0, 0.71) 51.04%, rgba(7, 15, 25, 0.8) 100%);
     display: flex;
     flex-direction: column;
@@ -422,12 +420,10 @@ body {
 
 .collections__item::before,
 .collections__item::after {
-    content: ;
     position: absolute;
     left: 7px;
     top: 50%;
     transform: translateY(-50%);
-    transition: 0.5s;
 }
 
 .collections__item::after {
@@ -485,7 +481,6 @@ body {
     height: 100%;
     object-fit: cover;
     transition: 0.3s linear;
-
 }
 
 .series__content {

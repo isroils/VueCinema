@@ -11,7 +11,6 @@
     .films__content{
         flex-wrap: wrap;
         gap: 30px;
-
     }
     .films__item{
         width: 47%;
